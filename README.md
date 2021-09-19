@@ -1,2 +1,2 @@
 # Golang
-go语言
+The Go Programming Language Learning Notes.
